@@ -1,4 +1,4 @@
-package Bai_04;
+package Bai_05;
 
 public class Rectangle extends Shape{
     private double width;
